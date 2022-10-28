@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ligimmy07
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning C++, python, and java.
-- 💞️ I’m looking to collaborate on nothing.
+- 💞️ I’m not looking to collaborate because I'm only a student who's learning competitive programming.
 - 📫 How to reach me ligimmy07@gmail.com
 
 <!---
